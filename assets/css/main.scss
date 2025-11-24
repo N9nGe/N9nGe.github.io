@@ -61,5 +61,5 @@
 .masthead__menu #theme-toggle,
 .masthead__menu button[aria-label*="theme"],
 .masthead__menu button[title*="theme"] {
-  margin-left: auto;   /* key line: pushes it to far right */
+  order: 999;
 }
