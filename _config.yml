@@ -24,12 +24,12 @@ repository               : "N9nGe/N9nGe.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Naixiang Gao"
+  name             : "Naixiang Gao(高乃翔)"
   pronouns         : "he/him"  
   bio              : "MSME student at Stanford University"
   location         : "Stanford, CA"
   employer         : "AgiBot"
-  uri              : "https://N9nGe.github.io"
+  uri              : # "https://N9nGe.github.io"
   email            : "n9nexiang@gmail.com"  
 
   # Academic websites
