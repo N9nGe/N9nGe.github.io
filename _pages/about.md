@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Naixiang(Gabriel) Gao | 高乃翔"
+title: "Naixiang(Gabriel) Gao (高乃翔)"
 excerpt: "Naixiang Gao"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ I'm a second year MS student of [Stanford Mechnical Engineering Department](http
 
 **I received my Bachelor's degree in Computer Engineering from UIUC in 2024.** During my undergraduate studies, I graduated with the **highest honor** in my major and **co-founded** our robotics club, [IRM](https://github.com/illini-robomaster), which grew to over 20 members. I served as the club’s vice president as well as the deputy lead of the electrical control team. In both my junior and senior years, I received the departmental scholarship—awarded to only **2–3 students** out of roughly 2,600 each year. My [senior design](https://courses.grainger.illinois.edu/ece445/hall-of-fame.asp)(Fall 2023) was also ranked **first** among 40 projects in my cohort. I was just one Bronze Tablet away from achieving a complete sweep of all university honors.
 
-My Curriculum Vitae can be found here([English](https://drive.google.com/file/d/11ZD5Vrq-KzRyAAhngjY0aDPF-agwOLZY/view?usp=sharing)/[Chinese]()) (updated Nov.20, 2025).
+My Curriculum Vitae/Resume can be found here([English(CV)](https://N9nGe.github.io/files/English_cv.pdf)/[Chinese(Resume)](https://N9nGe.github.io/files/Chinese_resume.pdf)) (updated Nov.26, 2025).
 
 Feel free to contact me via email, linkedin (both on the side bar) or WeChat: **N9neGe**.
 
