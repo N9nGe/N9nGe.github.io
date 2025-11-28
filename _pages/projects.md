@@ -20,7 +20,9 @@ All core components of the robot are developed in-house: the mechanical structur
 * Leveraged **virtual model control (VMC)** algorithm(model the leg motion as a **spring–damper system**) to control the leg motion, making the robot have adaptive suspension and keeping the robot level even with the difference in leg heights.
 * Simulated robot motion in **Matlab (Simulink)** and implemented the control system in C++ for hybrid testing.
 
+***The code has been open-sourced and can be found [here](https://github.com/N9nGe/Wheel_Legged_Robot/)***\
+***demonstration video can be found [here](https://www.youtube.com/watch?v=a-dle_tm7Tk)***\
 ***Project final paper can be found [here](https://github.com/N9nGe/Wheel_Legged_Robot/blob/main/files/ECE_445_Final_Report.pdf).***\
-***Control system development log can be found [here](https://github.com/N9nGe/Wheel_Legged_Robot/blob/main/LabNotebook/Naixiang(Gabriel)/Wheeled_Legged_Balancing_Robot_Development_NoteBook.pdf)***\
-***demonstration video can be found [here](https://www.youtube.com/watch?v=a-dle_tm7Tk)***
+***Control system development log can be found [here](https://github.com/N9nGe/Wheel_Legged_Robot/blob/main/LabNotebook/Naixiang(Gabriel)/Wheeled_Legged_Balancing_Robot_Development_NoteBook.pdf)***
+
 
