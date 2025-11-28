@@ -10,7 +10,7 @@ You can also find the publications on my [Google Scholar page](https://scholar.g
 
 <!-- ## Preprints -->
 
-<!-- --- -->
+---
 
 ## Journal Articles
 

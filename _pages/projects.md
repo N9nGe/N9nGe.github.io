@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-------
+---
 <span style="font-size: 22px; font-weight: bold;">Wheel-Legged Balancing Robot</span>\
 ***Team Leader/Control Engineer, Capstone Project in UIUC***\
 **Hall of Fame，[Grainger Best Overall Project Award](https://courses.grainger.illinois.edu/ece445/hall-of-fame.asp) (Fall 2023)**
